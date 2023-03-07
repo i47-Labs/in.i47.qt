@@ -1,0 +1,21 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:59981",
+      "sslPort": 44390
+    }
+  },
+  "profiles": {
+    "Aegir.Quote": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:6600;http://localhost:6601",
+      "dotnetRunMessages": "true"
+    }
+  }
+}
